@@ -8,5 +8,6 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.Quantum.Canon" Version="0.2.1809.701-preview" />
     <PackageReference Include="Microsoft.Quantum.Development.Kit" Version="0.2.1809.701-preview" />
+    <PackageReference Include="System.ValueTuple" Version="4.4.0" />
   </ItemGroup>
 </Project>
